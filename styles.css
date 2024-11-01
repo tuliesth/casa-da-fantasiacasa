@@ -1,0 +1,26 @@
+body {
+    color:rgb(255, 255, 255);
+    background: linear-gradient(5deg, #790000, black);
+    margin: 0px;
+    font-family: "Cinzel Decorative", serif;
+}
+
+header {
+    border-bottom: solid #3f0f09;
+    padding: 20px;
+    font-size: 32px;
+    color: #955b19;
+}
+
+
+section {
+    background: linear-gradient(10deg, #0f000005, #4f000003); 
+    padding-bottom: 80px; 
+    padding-top: 80px;
+    display: flex; 
+    justify-content: center;
+}
+
+.chamada-texto {
+    margin-right: 5%;
+}
